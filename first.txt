@@ -4,3 +4,4 @@ first commit
 .git commit
 add foo
 git status
+git diff
